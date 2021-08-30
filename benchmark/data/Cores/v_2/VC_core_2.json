@@ -1,0 +1,7 @@
+{
+"http://schema.org/BlankNode1":{
+	"http://schema.org/BlankNode2": {
+		"http://schema.org/BlankNode_3": {}
+		}
+	}
+}

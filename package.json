@@ -1,0 +1,26 @@
+{
+  "name": "bbs-json",
+  "version": "1.0.0",
+  "description": "Fast BBS+ signatures for JSON",
+  "main": "lib/index.js",
+  "author": "Vasilis Kalos",
+  "license": "MIT",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "typescript": "3.7.5"
+  },
+  "devDependencies": {
+    "@stablelib/benchmark": "^1.0.1",
+    "@types/node": "12.7.2",
+    "benchmark": "^2.1.4",
+    "jsonld": "3.1.0",
+    "ts-node": "8.4.1"
+  }
+}

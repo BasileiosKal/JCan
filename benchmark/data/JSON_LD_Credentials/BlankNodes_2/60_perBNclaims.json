@@ -1,0 +1,308 @@
+[
+  {
+    "http://schema.org/BlankNode_1": [
+      {
+        "http://schema.org/007e1ecd8473de0fce5f3ac041778d3f0f6a674a": [
+          {
+            "@value": "f266f2a0ce900f66141e8351729199a7fefda8b1"
+          }
+        ],
+        "http://schema.org/088576ce08f87f76fe5dcbf1f272fac72b0a5a4c": [
+          {
+            "@value": "e2bc046975b6cd01b6ef56e43550e5dcf37b0ca5"
+          }
+        ],
+        "http://schema.org/0b398ae0c49843477643b9aaad0f519d0e1dbd99": [
+          {
+            "@value": "e7e3f364f7c4dff60ce97db7fa3f63b41a13263c"
+          }
+        ],
+        "http://schema.org/10385f342c346a276f52116c96018b5a4fe486ea": [
+          {
+            "@value": "16e85a51a05f3abd978b7fe02afb6137b53f18fb"
+          }
+        ],
+        "http://schema.org/11f21e5e816986444cf84a965fed5875be8faa46": [
+          {
+            "@value": "d29d98497d577c5358d4699dd26c100fec1ec1e4"
+          }
+        ],
+        "http://schema.org/195bf64d44c93dd4828520bbfa8376eedc44bda2": [
+          {
+            "@value": "91530e69ab3d2bd0eb09cf99d456e2fa28b70308"
+          }
+        ],
+        "http://schema.org/1a5be406b36b7256c275a6f8d20166436a52dcc2": [
+          {
+            "@value": "265128a0c21d95bee25173d4e2813a56bc2e9c78"
+          }
+        ],
+        "http://schema.org/20dd1aae39db3c73f2bba97e927c94be73937625": [
+          {
+            "@value": "9009ee326724c4e0be865c885b0ce33342170618"
+          }
+        ],
+        "http://schema.org/20e2e0b357967ea26a93c3d95d68d4069dae702a": [
+          {
+            "@value": "9c6b1c19043a0be853974c6157cd3d67ef397913"
+          }
+        ],
+        "http://schema.org/211e0d068e7988991c54a2c681e6647ed1160541": [
+          {
+            "@value": "092c90db2f3a754669772aa702ffa63c3badc787"
+          }
+        ],
+        "http://schema.org/2e6a7ef26b4406f29541fc4fdb5b3a6b4c1d4ba3": [
+          {
+            "@value": "e5021106a3acf3618de8aca669e6487ebef1e775"
+          }
+        ],
+        "http://schema.org/2f4c027014dd21ce78b5a3104f9cccaf5b8a833e": [
+          {
+            "@value": "dd5d775dea680f10bef1aa27b4e6fb2eddca46f6"
+          }
+        ],
+        "http://schema.org/3443f1254e1b6276ea18544aa1f56855e9689b5d": [
+          {
+            "@value": "b3d5f7a32b9a18e4b24fa070964eaa3bce9ca3e3"
+          }
+        ],
+        "http://schema.org/35d29e63d7b7004abedd7f7d23cbd1d0312b06c7": [
+          {
+            "@value": "30152db31d466b2e8e7c39dada013409a07485ea"
+          }
+        ],
+        "http://schema.org/3953250d0cc26a106b9c453b82c55b153fd1b6b9": [
+          {
+            "@value": "92936c5402df19d68716d95919c8376c43207329"
+          }
+        ],
+        "http://schema.org/3c979bc5c95dba0b7a6c3f6cd4ca9dd048e83d29": [
+          {
+            "@value": "4f9285321a5fcacef8aabbd0d596b7f678291fe8"
+          }
+        ],
+        "http://schema.org/3d974fd3c9183bdbc87776fce41f43d6f3ad05eb": [
+          {
+            "@value": "a63cde2a516a9362cc5d063f0f7c649346f355b7"
+          }
+        ],
+        "http://schema.org/43a1fc89b16939591df315745363fe5b13ce1fd3": [
+          {
+            "@value": "b29b1889a650f1de0d47af74ce561056a5bd5218"
+          }
+        ],
+        "http://schema.org/469f9f3ef42cc9ca4c781f8989a5309b58f66e75": [
+          {
+            "@value": "6b0cf353beaa2bc7e02d7ecb55c6967f367fd1f9"
+          }
+        ],
+        "http://schema.org/4771252191a300d50ce4830d188e0c3d36396b8e": [
+          {
+            "@value": "8e7a633e7c12237b14f0f437a7dfdfec00b80038"
+          }
+        ],
+        "http://schema.org/48e82b2280124b6cef9807eb9487eb79942eb808": [
+          {
+            "@value": "66d76272612773ba38edc836f3cc478c057a3001"
+          }
+        ],
+        "http://schema.org/49dbe84e27211c12e8d0bf5df59c57ab8ebc7d44": [
+          {
+            "@value": "9c047fc513ff4349b8118a7590b3d0a95bab9001"
+          }
+        ],
+        "http://schema.org/59aa4813de3fd231d991eefdb05b528abaf9af51": [
+          {
+            "@value": "053f0186e10e04482cf20f2714450567163f52c6"
+          }
+        ],
+        "http://schema.org/5a9c8346354131776577948e92096348f0815f88": [
+          {
+            "@value": "212e13748085182c4e22fa0248b85dc4b556bd18"
+          }
+        ],
+        "http://schema.org/632b94e5f86af7d7fa35d63ec9ee7ed60f22300e": [
+          {
+            "@value": "3e97de3052d39b24b1184ebc856cd2440114025e"
+          }
+        ],
+        "http://schema.org/76fb7a08c52435d22602b96a49ff000b4bae8f88": [
+          {
+            "@value": "1648363074f7ce1e08e36fbcfc17eedc6b5ab093"
+          }
+        ],
+        "http://schema.org/792f54c355d6c8582e9c18ea50bb2572d8c122af": [
+          {
+            "@value": "75c1d0adfabb4d2f8b7244edfec005fa76b020bd"
+          }
+        ],
+        "http://schema.org/7ba084805568180b259f94bfc465bdd9f3a49c80": [
+          {
+            "@value": "d14e0220f640bb4fa6836299ee3caaad984dd6b2"
+          }
+        ],
+        "http://schema.org/7fab20a9b7147849edd53555b8a6bbc19e2a3a4e": [
+          {
+            "@value": "e6a089f834b26999343216d9c41fb3fe05f181ae"
+          }
+        ],
+        "http://schema.org/858897ec7315a5e42fe5775438f94ad56060cafe": [
+          {
+            "@value": "56ceec9a0447a2965a079bbf1f4463eaf55d37e3"
+          }
+        ],
+        "http://schema.org/85a325d7c1a4b4424846b6bc18b7a80f18fef7cd": [
+          {
+            "@value": "d7a69725e03b7de891671def6344465db1e4864b"
+          }
+        ],
+        "http://schema.org/87ac65c2cd8053ba590f7f1336405b4ad2d88247": [
+          {
+            "@value": "9edd5820e6ae8fe13762b93790418282ceea1b56"
+          }
+        ],
+        "http://schema.org/87d0984fed05a971d780f4b8f705a38079c30c7e": [
+          {
+            "@value": "86f4e4e82dc02e3dac7bcd078cc804736ef213f0"
+          }
+        ],
+        "http://schema.org/90bee192689052afa4875d66619531a763f914aa": [
+          {
+            "@value": "bc4544767df4083fed9060ebe8d1c3ccb01b9d6d"
+          }
+        ],
+        "http://schema.org/9a1c981b1be34e34a2f19a1ad95dead8774f6294": [
+          {
+            "@value": "7edc810a82a884738ba3311f4ab073ff93da512e"
+          }
+        ],
+        "http://schema.org/9a546429209355967e74c7b107f23b2fbe7e1f50": [
+          {
+            "@value": "cf3f39bdb1127442dfdc9ec4c216b64962234bca"
+          }
+        ],
+        "http://schema.org/9ad142a2b13c68bc419a24c06e7514925be6d067": [
+          {
+            "@value": "070c0673e3d4f78810a5a32a906cd3aff49ef342"
+          }
+        ],
+        "http://schema.org/9f12208e4dbd259acd1cf9b5137238440a6fb1fa": [
+          {
+            "@value": "359a592aac1e3d15300c7676b545dc08f856cbf0"
+          }
+        ],
+        "http://schema.org/a4b95d4c86f854f1cc9f9bb691118a03855c160d": [
+          {
+            "@value": "6c3f4d5cbc1419d9a5080c82df1b32693b65ed41"
+          }
+        ],
+        "http://schema.org/a681de94531826e43e890f4270813230acdc1f3c": [
+          {
+            "@value": "600458d27d2c2e69d51e0a575c6bdd4fbe265eba"
+          }
+        ],
+        "http://schema.org/a747596d86fd1c532c600602f5eabccc878450d4": [
+          {
+            "@value": "f0061182cfa947797af2aa83d17594ee5b9be794"
+          }
+        ],
+        "http://schema.org/ad28bef38b005f4309cfe5896298a47f215dc6ab": [
+          {
+            "@value": "b30353879b7a67bc3739f59a9c4bbead95198c25"
+          }
+        ],
+        "http://schema.org/ae322dcf85704c4577c4c38e1ac56c3685536bcc": [
+          {
+            "@value": "512c1cb8b90f0ac2db04fb3ecc129846d3a3710e"
+          }
+        ],
+        "http://schema.org/ae4ed397973be52915168d5d1ac47d34fd055519": [
+          {
+            "@value": "cacc9f4721e84ecdb30f55be10c00321df002816"
+          }
+        ],
+        "http://schema.org/b5cdae12716995098e51b53458eefc335a960343": [
+          {
+            "@value": "1245abef9898d3c890ad778ffe8261eb8e2c0aa8"
+          }
+        ],
+        "http://schema.org/bf0d868e622af090e0dfac860eff21d6bc9d2cb1": [
+          {
+            "@value": "fc747d7b5e01166da471f88f0b3bed4836497489"
+          }
+        ],
+        "http://schema.org/c0a0cbd8c7d12a11c7c1466d06da393c865ca89f": [
+          {
+            "@value": "75c91a4b0531966a3383e25074f99df007ac609c"
+          }
+        ],
+        "http://schema.org/c10fe1d4fd3c1065b296a1a76eec359d2179683f": [
+          {
+            "@value": "db80c978831c08c18d8f1f5e9fffaed453c63a1f"
+          }
+        ],
+        "http://schema.org/c7cfd942705c6104673850ec3e502b5c5d578079": [
+          {
+            "@value": "67804650192cabfe50b753e1107c6ceb096ce299"
+          }
+        ],
+        "http://schema.org/cabb09d39c8534d5b5d3734408ae1a3f6768707d": [
+          {
+            "@value": "8b02958745603f52ae3f5ef08c1adcb26eceee4d"
+          }
+        ],
+        "http://schema.org/d26f6b40643115fd05bf414557c82db1583becb4": [
+          {
+            "@value": "fa37adc40fc0aca6b2a89476331c94c4af434972"
+          }
+        ],
+        "http://schema.org/d5cbb499b379d29ab6fe0560c2d6db0207146213": [
+          {
+            "@value": "68d6cc6a8758a9ff743c24d6d05857eafcf37fb8"
+          }
+        ],
+        "http://schema.org/e2e5c3251a9b7f283b284eadb3d644be7c6a58b9": [
+          {
+            "@value": "c4aab63aef027f2c21741475a56ab5f982d5e9d9"
+          }
+        ],
+        "http://schema.org/e6d06fc4291bbff1b6cacb068007245847a5a7a9": [
+          {
+            "@value": "19b641b91c488029ef6dd096d248bd283367e802"
+          }
+        ],
+        "http://schema.org/eef61dcefebff10aa806d0bc6c6fe8c1eb0627fe": [
+          {
+            "@value": "2a9aea30a58596000683209c8a84138132a4869b"
+          }
+        ],
+        "http://schema.org/f06efe3263e5c68347cae1c159856d32fe948104": [
+          {
+            "@value": "7080c97b34bf4873353c6a4625a6db5f4798b4d4"
+          }
+        ],
+        "http://schema.org/f25b0a695737779d85935b9c17f5c9c4ff5e322f": [
+          {
+            "@value": "7edd0594818bdde939bdbfc42324ea93898006f8"
+          }
+        ],
+        "http://schema.org/f3871831ebc37c658172d8344880fbf957d494c7": [
+          {
+            "@value": "60244efe8f1c98dae5546bcf813e185f420f1b67"
+          }
+        ],
+        "http://schema.org/f9038e17d86b1605e1cb8803801a63aacab1acbb": [
+          {
+            "@value": "6f6bf76360a69e97f7776d5a0228217388a84b1c"
+          }
+        ],
+        "http://schema.org/fcabb5339d0f0617cb04fa77b472a721c1c6fb8b": [
+          {
+            "@value": "be6a2fefa334e63cb42c0e3dae257eb7584949d8"
+          }
+        ]
+      }
+    ]
+  }
+]
