@@ -18,6 +18,7 @@ function runBenchJSON (strCredential: string) {
 const runBenchJSON_LD = (expandedCredential: any) => {
   const URDNA = new urdna();
   const RDFdataset = _toRDF(expandedCredential, {format: 'application/n-quads'});
+  // console.log("RDF DATA SET = ", RDFdataset);
   const CanonClaims = URDNA.main(RDFdataset);
 }
 
@@ -34,7 +35,7 @@ var Claims:any = []
 
 // Bench data are set up before the benchmarking. The alternative will be to use the "setup" funvtion of 
 // Benchmark.ts.
-var PATH_PRFX: string = `C:/Users/Vasilis/Desktop/Thesis/Code/BbsJSONsignatures/Fast/benchmark/data/JSON_Credentials`;
+var PATH_PRFX: string = `C:/Users/Vasilis/Desktop/AUEB/Thesis/Code/BbsJSONsignatures/Fast/benchmark/data/JSON_Credentials`;
 
 
 // ------------------------------------ Set Up Bench Data ----------------------------------------- //
@@ -106,7 +107,7 @@ const BenchJSON = () => {
 // ------------------------------------------------------------------------------------------------ //
 
 // ----------------------------------- Set Up Bench Data ------------------------------------------ //
-const PATH_PRFX_LD: string = "C:/Users/Vasilis/Desktop/Thesis/Code/BbsJSONsignatures/Fast/benchmark/data/JSON_LD_Credentials";
+const PATH_PRFX_LD: string = "C:/Users/Vasilis/Desktop/AUEB/Thesis/Code/BbsJSONsignatures/Fast/benchmark/data/JSON_LD_Credentials";
 
 var strVCsJSON_LD = {}
 for (let BN_NUMBER of BNs){
@@ -229,4 +230,6 @@ const BenchJSONLDexpand = () => {
 
 BenchJSON();
 BenchJSONLD();
-//BenchJSONLDexpand();
+// BenchJSONLDexpand();
+
+// runBenchJSON_LD(strVCsJSON_LD[BNs[0]][Claims[0][0]]);

@@ -5,7 +5,7 @@ import sys
 
 JSON_FILE_NAME = "_perBNclaims.json"  #NOTE: An index will be added as a prefix to each file name.
 
-"""Delets all existinf json files in path"""
+"""Delets all existing json files in path"""
 def deleteFiles(path):
 	files = glob.glob(path+'/*.json')
 	for f in files:
@@ -15,10 +15,9 @@ def deleteFiles(path):
 benchmarking will be saved. The files will have names: {per_bn_claims}_claims.json"""
 def createFolders(path, JSON_to_write, indexes):
 	for index in indexes:
-		 VCfile = open(path+"/{i}".format(i = index)+JSON_FILE_NAME, "w")
-		 json.dump(JSON_to_write, VCfile)
-		 VCfile.close()
-
+		VCfile = open(path+"/{i}".format(i = index)+JSON_FILE_NAME, "w")
+		json.dump(JSON_to_write, VCfile)
+		VCfile.close()
 	print("Done")
 
 
@@ -32,13 +31,6 @@ def createFolders(path, JSON_to_write, indexes):
 # ------------------------------------------------------------------------------- #
 
 # TODO: accept the path from the user as a CLI argument
-
-# if __name__ == "__main__":
-CLAIMS2 = [[20, 40, 60, 80, 100],
-             [10, 20, 30, 40, 50],
-             [5, 10, 15, 20, 25],
-             [4, 8, 12, 16, 20]];
-
 
 args = sys.argv
 if len(args) == 1:
@@ -69,7 +61,7 @@ createFolders(path.format(BN_number = BLANK_NODES), JSON_to_write, BN_to_Claims[
 
 
 
-# For credentials with 2 blank node
+# For credentials with 4 blank node
 BLANK_NODES = BNs[1]
 
 with open(path+corePath+"/VC_core_2.json") as core:
@@ -95,7 +87,7 @@ createFolders(path.format(BN_number = BLANK_NODES), JSON_to_write, BN_to_Claims[
 
 
 
-# For credentials with 4 blank node
+# For credentials with 16 blank node
 BLANK_NODES = BNs[3]
 
 with open(path+corePath+"/VC_core_4.json") as core:

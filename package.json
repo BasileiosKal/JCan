@@ -1,7 +1,6 @@
 {
-  "name": "bbs-json",
+  "name": "jcan",
   "version": "1.0.0",
-  "description": "Fast BBS+ signatures for JSON",
   "main": "lib/index.js",
   "author": "Vasilis Kalos",
   "license": "MIT",

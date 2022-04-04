@@ -20,8 +20,6 @@ export class CredentialGenerator {
 
     /**
      * Deletes all values in a credential exept the blank noodes
-     * 
-     * @param credential the credential to reset
      */
      private async _resetAndLoadCresential(path: string) {
         const Credential:any =  require(path);
@@ -72,12 +70,6 @@ export class CredentialGenerator {
     /**
      * Generates random credentials. The files of the credentials must already be
      * created in the smae file with names of the form ${TOTAL_CLAIMS_NUMBER}_claims.json.
-     * 
-     * @param FilePath The path to the file that the credentials will be saved ()
-     * @param perBNclaims The number of claims to add to each blank node
-     * @param from The minimum total number of claims
-     * @param max The maximum total number of claims
-     * @param step The step with which to add claims
      */
     async createRandCredentials(
         FilePath: string, 
